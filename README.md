@@ -2,6 +2,14 @@
 
 Personal portfolio website for Vladimir Nachev, Senior QA Engineer / QA Automation Engineer.
 
+## Live Site
+
+The portfolio is deployed on Vercel:
+
+```text
+https://vnachev-portfolio.vercel.app/
+```
+
 ## Stack
 
 - React
@@ -71,4 +79,17 @@ src/
 
 ## Deployment
 
-This is a standard Vite static site. After running `npm.cmd run build`, deploy the generated `dist/` folder to any static hosting provider such as GitHub Pages, Netlify, Vercel, or Cloudflare Pages.
+The site is deployed on Vercel from the GitHub repository:
+
+```text
+https://vnachev-portfolio.vercel.app/
+```
+
+Vercel settings:
+
+- Framework Preset: Vite
+- Build Command: `npm run build`
+- Output Directory: `dist`
+- Install Command: `npm install`
+
+Every push to the connected production branch triggers a new Vercel deployment.
