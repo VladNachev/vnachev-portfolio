@@ -2,13 +2,13 @@ export const profile = {
   name: 'Vladimir Nachev',
   role: 'Senior QA Engineer | Test Automation | Manual Testing | UI & API Testing',
   intro:
-    'Senior QA Engineer with 7+ years of experience in manual and automated testing across healthcare, banking, insurance, and cloud domains. Strong background in UI/API automation, backend validation, CI/CD pipelines, and Java/Groovy-based frameworks. Experienced in test planning, test estimation, test strategy, test case design, defect management, and Agile/Scrum methodologies, with focus on delivering scalable automation solutions and high-quality software products.',
+    'Senior QA Engineer with 8+ years of experience in manual and automated testing across healthcare, banking, insurance, and cloud domains. Strong background in UI/API automation, backend validation, CI/CD pipelines, and Java/Groovy-based frameworks. Experienced in test planning, test estimation, test strategy, test case design, defect management, and Agile/Scrum methodologies, with focus on delivering scalable automation solutions and high-quality software products.',
   email: 'nachev.vlad@gmail.com',
   links: {
     github: 'https://github.com/VladNachev',
     linkedin: 'https://www.linkedin.com/in/vladimir-nachev/',
     blog: 'https://vladxtron.wordpress.com/',
-    cv: 'https://e.pcloud.link/publink/show?code=XZ3umrZXJdCdgbeCUX7cdllsVSpz8p6G8gy',
+    cv: 'https://e.pcloud.link/publink/show?code=XZxthrZO2O6T1bgjaYzCtOguHfRc0zGoOCy',
   },
 };
 

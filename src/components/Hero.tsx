@@ -1,7 +1,7 @@
 import { FileText, Github, Linkedin, NotebookText, ShieldCheck } from 'lucide-react';
 import { profile } from '../data/portfolio';
 
-const heroHighlights = ['7+ years QA experience', 'UI/API automation', 'Framework development', 'Manual testing', 'Test planning', 'Test strategy', 'Backend validation', 'CI/CD '];
+const heroHighlights = ['8+ years QA experience', 'UI/API automation', 'Framework development', 'Manual testing', 'Test planning', 'Test strategy', 'Backend validation', 'CI/CD '];
 
 export function Hero() {
   return (
