@@ -44,24 +44,6 @@ Preview the production build:
 npm.cmd run preview
 ```
 
-## Editing Content
-
-Most portfolio content is centralized in:
-
-```text
-src/data/portfolio.ts
-```
-
-Update that file to replace:
-
-- pinned GitHub repository placeholders
-- article placeholders
-- certification placeholders
-- profile text and contact links
-- skills and experience copy
-
-Placeholder cards are intentionally marked in the UI so they are easy to find and replace later.
-
 ## Project Structure
 
 ```text
