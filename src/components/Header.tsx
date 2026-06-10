@@ -1,4 +1,4 @@
-import { FileText, Github, Linkedin, NotebookText } from 'lucide-react';
+import { Github, Linkedin, NotebookText } from 'lucide-react';
 import { profile } from '../data/portfolio';
 
 const navItems = [
@@ -37,9 +37,6 @@ export function Header() {
         </a>
         <a href={profile.links.blog} aria-label="QA blog" target="_blank" rel="noreferrer">
           <NotebookText size={18} aria-hidden="true" />
-        </a>
-        <a href={profile.links.cv} aria-label="View CV" target="_blank" rel="noreferrer">
-          <FileText size={18} aria-hidden="true" />
         </a>
       </div>
     </header>

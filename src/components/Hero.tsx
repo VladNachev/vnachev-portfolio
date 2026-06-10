@@ -1,4 +1,4 @@
-import { FileText, Github, Linkedin, NotebookText, ShieldCheck } from 'lucide-react';
+import { Github, Linkedin, NotebookText, ShieldCheck } from 'lucide-react';
 import { profile } from '../data/portfolio';
 
 const heroHighlights = ['8+ years QA experience', 'UI/API automation', 'Framework development', 'Manual testing', 'Test planning', 'Test strategy', 'Backend validation', 'CI/CD '];
@@ -22,10 +22,6 @@ export function Hero() {
           <a className="button" href={profile.links.blog} target="_blank" rel="noreferrer">
             <NotebookText size={18} aria-hidden="true" />
             Read Blog
-          </a>
-          <a className="button" href={profile.links.cv} target="_blank" rel="noreferrer">
-            <FileText size={18} aria-hidden="true" />
-            View CV
           </a>
         </div>
       </div>

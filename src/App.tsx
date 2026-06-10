@@ -300,9 +300,6 @@ export function App() {
               <a className="button" href={profile.links.blog} target="_blank" rel="noreferrer">
                 Blog <ArrowUpRight size={17} aria-hidden="true" />
               </a>
-              <a className="button" href={profile.links.cv} target="_blank" rel="noreferrer">
-                View CV <ArrowUpRight size={17} aria-hidden="true" />
-              </a>
             </div>
           </div>
         </Section>

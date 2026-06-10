@@ -8,7 +8,6 @@ export const profile = {
     github: 'https://github.com/VladNachev',
     linkedin: 'https://www.linkedin.com/in/vladimir-nachev/',
     blog: 'https://vladxtron.wordpress.com/',
-    cv: 'https://e.pcloud.link/publink/show?code=XZxthrZO2O6T1bgjaYzCtOguHfRc0zGoOCy',
   },
 };
 
