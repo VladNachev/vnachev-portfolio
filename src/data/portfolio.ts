@@ -227,7 +227,7 @@ export const recommendations = [
     source: 'LinkedIn recommendation',
     sourceUrl: profile.links.linkedin,
     avatarUrl:
-      'https://media.licdn.com/dms/image/v2/D4D03AQHh0lDUd_A5_g/profile-displayphoto-scale_100_100/B4DZ04UDHAKAAc-/0/1774766278422?e=1780531200&v=beta&t=cRsseN4gtmsSxPRsGefrjPIZsVizelloE_I2O9u6_-0',
+      '/recommendations/birgit-hausdorfer.jpg',
     avatarInitials: 'BH',
   },
   {
@@ -240,7 +240,7 @@ export const recommendations = [
     source: 'LinkedIn recommendation',
     sourceUrl: profile.links.linkedin,
     avatarUrl:
-      'https://media.licdn.com/dms/image/v2/D4D03AQHGQuzd35vjeQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704466966224?e=1780531200&v=beta&t=6S43GU5Be6GTynJdoEjqihnvVjAh_k8QpgNG-hjBaHw',
+      '/recommendations/ludmila-yordanova.jpg',
     avatarInitials: 'LY',
   },
 ];
